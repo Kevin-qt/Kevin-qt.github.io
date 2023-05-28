@@ -6,8 +6,7 @@
 
 To build effiicient Convolutional Neural Networks (CNNs) to detect the presence of malaria through the analysis of patients' blood smear images.
 
-<img src="images/rgb.png?raw=true/"><img src="images/hsv.png?raw=true/">
-<img src="images/cm.jpg?raw=true/">
+<img src="images/combined.jpg?raw=true/">
 
 [View code on Colab](https://colab.research.google.com/drive/12d3lBN9uQWn8zr_LBGY56BypIHqdqP_a?usp=sharing)
 
