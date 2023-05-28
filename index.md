@@ -1,35 +1,31 @@
-## Portfolio
+## Selected Projects in Data Science and Machine Learning
 
 ---
 
-### Category Name 1 
+### CNNs for Malaria Detection
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+To build effiicient Convolutional Neural Networks (CNNs) to detect the presence of malaria through the analysis of patients' blood smear images.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/rgb.png?raw=true/"><img src="images/hsv.png?raw=true/">
+<img src="images/cm.jpg?raw=true/">
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on Colab](https://drive.google.com/file/d/1957rbRYPpkqSnIcsUbk_dXeXRoXaQDI_/view?usp=share_link)
 
 ---
 
-### Category Name 2
+### Household Finance Dashboard
+An interactive PowerBI dashboard which sources data from MySQL database with ETL process, it provides quick and updated financial insights to have a better understanding of the household financial health.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/dashboard_preview.jpg?raw=true"/>
+
+[View code on GitHub](https://github.com/Kevin-qt/Household-Finance-Dashboard)
 
 ---
 
 
+## Other Projects
 
+- [DrugABC Classification](https://github.com/Kevin-qt/DrugABC-Classification)
+- [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/Kevin-qt/SpaceX-Falcon-9-First-Stage-Landing-Prediction)
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
