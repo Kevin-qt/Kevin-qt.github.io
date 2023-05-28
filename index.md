@@ -4,11 +4,11 @@
 
 ### CNNs for Malaria Detection
 
-To build effiicient Convolutional Neural Networks (CNNs) to detect the presence of malaria through the analysis of patients' blood smear images.
+Built effiicient Convolutional Neural Networks (CNNs) to detect the presence of malaria through the analysis of patients' blood smear images. Model tuning with different optimizers, batch normalization, data augmentation, and applied transfer learning with VGG16.
 
 <img src="images/combined.jpg?raw=true/">
 
-**Tech**: `TensorFlow`  `Keras`  `Scikit-learn`  `OpenCV`  `Matplotlib`  `Seaborn`  `NumPy`  `Pandas`  `Python`
+**Tech: TensorFlow, Keras, Scikit-learn, OpenCV, Matplotlib, Seaborn, NumPy, Pandas, Python**
 
 [View code on Colab](https://colab.research.google.com/drive/12d3lBN9uQWn8zr_LBGY56BypIHqdqP_a?usp=sharing)
 
@@ -19,7 +19,7 @@ An interactive PowerBI dashboard which sources data from MySQL database with ETL
 
 <img src="images/dashboard_preview.jpg?raw=true"/>
 
-**Tech**: `Power BI`  `MySQL`  `NumPy`  `Pandas`  `Python`
+**Tech: Power BI, MySQL, NumPy, Pandas, Python**
 
 [View code on GitHub](https://github.com/Kevin-qt/Household-Finance-Dashboard)
 
