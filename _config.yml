@@ -5,11 +5,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   A newcomer to the field of data science and machine learning, with 3+ years of experience in financial markets and banking. Graduated from The Hong Kong University of Science and Technology. Previously at Everbright Securities International, The Bank of East Asia, Bank of China (Hong Kong). 
   <br><br>
   <b>Certificates:</b><br>
-  MIT Professional Education Applied Data Science Program, IBM Data Science Professional Certificate, AWS Certified Cloud Practitioner.
+  MIT Professional Education Applied Data Science Program <br>
+  IBM Data Science Professional Certificate <br>
+  AWS Certified Cloud Practitioner <br>
   <br><br>
   <a href="https://www.linkedin.com/in/siuyuenchow/">View My LinkedIn Profile</a>
   <br><br>
-  <a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
+  <a href="https://github.com/Kevin-qt/">View My GitHub Profile</a>
   <br><br>
   <a href="https://kevinchow.org/">View My Personal Blog</a> 
  
