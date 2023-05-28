@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   MIT Professional Education Applied Data Science Program, IBM Data Science Professional Certificate, AWS Certified Cloud Practitioner.
   <br><br>
   <a href="https://www.linkedin.com/in/siuyuenchow/">View My LinkedIn Profile</a> 
-  <br><br>
-  <a href="https://kevinchow.org/">View My Blog</a> 
+  <a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
+  <a href="https://kevinchow.org/">View My Personal Blog</a> 
  
 theme: jekyll-theme-minimal
