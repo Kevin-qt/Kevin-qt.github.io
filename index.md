@@ -9,7 +9,7 @@ To build effiicient Convolutional Neural Networks (CNNs) to detect the presence 
 <img src="images/rgb.png?raw=true/"><img src="images/hsv.png?raw=true/">
 <img src="images/cm.jpg?raw=true/">
 
-[View code on Colab](https://drive.google.com/file/d/1957rbRYPpkqSnIcsUbk_dXeXRoXaQDI_/view?usp=share_link)
+[View code on Colab](https://colab.research.google.com/drive/12d3lBN9uQWn8zr_LBGY56BypIHqdqP_a?usp=sharing)
 
 ---
 
