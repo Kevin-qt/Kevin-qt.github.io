@@ -4,7 +4,7 @@
 
 ### CNNs for Malaria Detection
 
-Built effiicient Convolutional Neural Networks (CNNs) to detect the presence of malaria through the analysis of patients' blood smear images. Model tuning with different optimizers, batch normalization, data augmentation, and applied transfer learning with VGG16.
+Built effiicient Convolutional Neural Networks (CNNs) to detect the presence of malaria through the analysis of patients' blood smear images. Model tuning with different optimizers, dropout, batch normalization, data augmentation, and applied transfer learning with VGG16.
 
 <img src="images/combined.jpg?raw=true/">
 
