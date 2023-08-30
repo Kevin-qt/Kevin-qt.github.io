@@ -28,6 +28,7 @@ An interactive PowerBI dashboard which sources data from MySQL database with ETL
 
 ## Other Projects
 
+- [Coding Algorithms from Scratch](https://github.com/Kevin-qt/Coding-Algorithms-from-Scratch)
 - [Drug Classification using KNN](https://github.com/Kevin-qt/DrugABC-Classification)
 - [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/Kevin-qt/SpaceX-Falcon-9-First-Stage-Landing-Prediction)
 
