@@ -15,11 +15,11 @@ Built effiicient Convolutional Neural Networks (CNN) to detect the presence of m
 ---
 
 ### Household Finance Dashboard
-An interactive PowerBI dashboard which sources data from MySQL database with ETL process, it provides quick and updated financial insights to have a better understanding of the household financial health.
+An interactive PowerBI dashboard which sources data from MySQL database, and performs ETL workflow to update DB with Apache Airflow. The dashboard provides comprehensive and updated financial insights of household to users.
 
 <img src="images/dashboard_preview.jpg?raw=true"/>
 
-**Tech: Power BI, MySQL, NumPy, Pandas, Python**
+**Tech: Apache Airflow, Power BI, MySQL, Pandas, Python**
 
 [View code on GitHub](https://github.com/Kevin-qt/Household-Finance-Dashboard)
 
