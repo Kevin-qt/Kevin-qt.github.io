@@ -21,7 +21,9 @@ An interactive PowerBI dashboard which sources data from MySQL database, and per
 
 **Tech: Apache Airflow, Power BI, MySQL, Pandas, Python**
 
-[View code on GitHub](https://github.com/Kevin-qt/Household-Finance-Dashboard)
+[View dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzk4M2M5YzgtYmI4MS00NzFjLTgzNTEtNDA0ZjFhOWRjMzhlIiwidCI6IjdkMjRjMTUwLWQwNjUtNGRjZS1hMmZmLWU1Y2M5ODM5ZDNmNSJ9)
+
+[View source code on GitHub](https://github.com/Kevin-qt/Household-Finance-Dashboard)
 
 ---
 
