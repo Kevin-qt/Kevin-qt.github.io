@@ -2,9 +2,9 @@
 
 ---
 
-### CNN for Malaria Detection
+### Malaria Detection with AlexNet and VGG-16
 
-Built effiicient Convolutional Neural Networks (CNN) to detect the presence of malaria through the analysis of patients' blood smear images. Model tuning with different optimizers, dropout, batch normalization, data augmentation, and applied transfer learning with VGG16.
+Built effiicient Convolutional Neural Networks (CNN) by using AlexNet and VGG-16 architectures to detect the presence of malaria parasites through the patients' blood smear images. Performed multiple hyperparameters tuning with Keras, and applied data augmentation and transfer learning.
 
 <img src="images/combined.jpg?raw=true/">
 
