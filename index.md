@@ -10,7 +10,7 @@ Built effiicient Convolutional Neural Networks (CNN) to detect the presence of m
 
 **Tech: TensorFlow, Keras, Scikit-learn, OpenCV, Matplotlib, Seaborn, NumPy, Pandas, Python**
 
-[View code on Colab](https://colab.research.google.com/drive/12d3lBN9uQWn8zr_LBGY56BypIHqdqP_a?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/1zoN5EvAs-e6wUjjWoObtwMhaX7CSozF6?usp=sharing)
 
 ---
 
