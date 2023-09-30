@@ -17,7 +17,7 @@ Built effiicient Convolutional Neural Networks (CNN) by using AlexNet and VGG-16
 ### Household Finance Dashboard
 An interactive PowerBI dashboard which sources data from MySQL database, and performs ETL workflow to update DB with Apache Airflow. The dashboard provides comprehensive and updated financial insights of household to users.
 
-<img src="images/preview.jpg?raw=true"/>
+<img src="images/dashboard_preview.jpg?raw=true"/>
 
 **Tech: Apache Airflow, Power BI, MySQL, Pandas, Python**
 
