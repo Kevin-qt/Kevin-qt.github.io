@@ -26,6 +26,16 @@ An interactive PowerBI dashboard which sources data from MySQL database, and per
 [View source code on GitHub](https://github.com/Kevin-qt/Household-Finance-Dashboard)
 
 ---
+### Stock Profiling (Ongoing project)
+Fetched market data and conducted risk and return analysis on a given stock.
+
+<img src="images/stock.png?raw=true" width="1000" height="650"/>
+
+**Tech: NumPy, Pandas, Matplotlib, Seaborn, Python**
+
+[View code on Colab](https://colab.research.google.com/drive/1ADqyFJQCGciPTFJj6FgY9R9Bc1aNJlF0?usp=sharing)
+
+---
 
 
 ## Other Projects
