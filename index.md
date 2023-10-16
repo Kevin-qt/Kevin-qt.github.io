@@ -29,7 +29,7 @@ An interactive PowerBI dashboard which sources data from MySQL database, and per
 ### Stock Profiling (Ongoing project)
 Fetched market data and conducted risk and return analysis on a given stock.
 
-<img src="images/stock.png?raw=true" width="1000" height="650"/>
+<img src="images/time_series.jpg?raw=true"/>
 
 **Tech: NumPy, Pandas, Matplotlib, Seaborn, Python**
 
