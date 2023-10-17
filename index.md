@@ -26,10 +26,12 @@ An interactive PowerBI dashboard which sources data from MySQL database, and per
 [View source code on GitHub](https://github.com/Kevin-qt/Household-Finance-Dashboard)
 
 ---
-### Stock Profiling (Ongoing project)
-Fetched market data and conducted risk and return analysis on a given stock.
+### Time Series Forecasting of Stock Volatility
+Fetched historical market data and conducted risk and return analysis on a chosen stock. Time-series forecasting on volatility for option pricing with Black-Scholes Model.
 
-<img src="images/time_series.jpg?raw=true"/>
+Note: This is an ongoing project.
+
+<img src="images/series_thumbnail.jpg?raw=true"/>
 
 **Tech: NumPy, Pandas, Matplotlib, Seaborn, Python**
 
