@@ -33,7 +33,7 @@ Note: This is an ongoing project.
 
 <img src="images/series_thumbnail.jpg?raw=true"/>
 
-**Tech: NumPy, Pandas, Matplotlib, Seaborn, Python**
+**Tech: Statsmodels, NumPy, Pandas, Matplotlib, Seaborn, Python**
 
 [View code on Colab](https://colab.research.google.com/drive/1ADqyFJQCGciPTFJj6FgY9R9Bc1aNJlF0?usp=sharing)
 
