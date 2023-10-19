@@ -1,6 +1,16 @@
 ## Selected Projects in Data Science and ML
 
 ---
+### Time Series Forecasting of Stock Volatility and Option Pricing
+Fetched historical market data and conducted risk and return analysis by using various market metrics on AAPL. Decomposed trend and seasonality and tested for stationarity with Augmented Dickey-Fuller (ADF) test. Time-series forecasting using AutoRegressive Integrated Moving Average (ARIMA) for volatility estimation and option pricing with Black-Scholes Model.
+
+<img src="images/ts_thumbnail.jpg?raw=true"/>
+
+**Tech: Statsmodels, SciPy, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Python**
+
+[View code on Colab](https://colab.research.google.com/drive/1ADqyFJQCGciPTFJj6FgY9R9Bc1aNJlF0?usp=sharing)
+
+---
 
 ### Malaria Detection with AlexNet and VGG-16
 
@@ -24,18 +34,6 @@ An interactive PowerBI dashboard which sources data from MySQL database, and per
 [View dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTM1OWJjOTEtNTVmNi00ZGJlLTkwNmQtOTMxNDEyNDQzYzk3IiwidCI6IjdkMjRjMTUwLWQwNjUtNGRjZS1hMmZmLWU1Y2M5ODM5ZDNmNSJ9)
 
 [View source code on GitHub](https://github.com/Kevin-qt/Household-Finance-Dashboard)
-
----
-### Time Series Forecasting of Stock Volatility
-Fetched historical market data and conducted risk and return analysis on a chosen stock. Time-series forecasting on volatility for option pricing with Black-Scholes Model.
-
-Note: This is an ongoing project.
-
-<img src="images/series_thumbnail.jpg?raw=true"/>
-
-**Tech: Statsmodels, NumPy, Pandas, Matplotlib, Seaborn, Python**
-
-[View code on Colab](https://colab.research.google.com/drive/1ADqyFJQCGciPTFJj6FgY9R9Bc1aNJlF0?usp=sharing)
 
 ---
 
