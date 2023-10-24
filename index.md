@@ -2,7 +2,7 @@
 
 ---
 ### Time Series Forecasting of Stock Volatility and Option Pricing
-Fetched historical market data and conducted risk and return analysis by using various market metrics on AAPL. Decomposed trend and seasonality and tested for stationarity with Augmented Dickey-Fuller (ADF) test. Time-series forecasting using AutoRegressive Integrated Moving Average (ARIMA) for volatility estimation and option pricing with Black-Scholes Model.
+Fetched market data and conducted risk-return analysis by using various financial metrics on AAPL. Performed EDA, decomposition and tested for stationarity. Analyzed ACF and PACF plots, grid searched best-fitted hyperparameters using parallel programming and built ARMA, ARIMA, and SARIMA models and evaluated their performance. Time-series forecasting on trailing volatility and estimated option pricing with Black-Scholes Model.
 
 <img src="images/ts_thumbnail.jpg?raw=true"/>
 
