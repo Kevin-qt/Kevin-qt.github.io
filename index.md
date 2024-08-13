@@ -2,7 +2,7 @@
 
 ---
 ### Time Series Forecasting of Stock Volatility and Option Pricing
-Fetched market data and conducted risk-return analysis by using various financial metrics on AAPL. Performed EDA, decomposition and tested for stationarity. Analyzed ACF and PACF plots, grid searched best-fitted hyperparameters using parallel programming and built ARMA, ARIMA, and SARIMA models and evaluated their performance. Time-series forecasting on trailing volatility and estimated option pricing with Black-Scholes Model.
+Fetched market data and conducted risk-return analysis by using various financial metrics. Performed EDA, decomposition and tested for stationarity. Analyzed ACF and PACF plots, grid searched the best-fitted hyperparameters using parallel programming and built ARMA, ARIMA, and SARIMA models and evaluated their performance. Time-series forecasting on trailing volatility and estimated European option price using Black-Scholes Model.
 
 <img src="images/ts_thumbnail.jpg?raw=true"/>
 
