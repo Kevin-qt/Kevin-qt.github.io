@@ -8,7 +8,7 @@ Fetched market data and conducted risk-return analysis by using various financia
 
 **Tech: Statsmodels, SciPy, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Python**
 
-[View code on GitHub](https://github.com/Kevin-qt/Time-Series-Forecasting-of-Volatility-and-Option-Pricing/blob/98f2ce3b55057e862e88de4f06a55e74ecbaad60/time_series_forecasting_of_volatility.ipynb)
+[View code on GitHub](https://github.com/Kevin-qt/Time-Series-Forecasting-of-Volatility-and-Option-Pricing/blob/8f31d94618803c145aefdd65445c59e2aef326f7/time_series_forecasting_of_volatility.ipynb)
 
 [View code on Colab](https://colab.research.google.com/drive/1ADqyFJQCGciPTFJj6FgY9R9Bc1aNJlF0?usp=sharing)
 
